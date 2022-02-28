@@ -1,0 +1,3 @@
+﻿  strstr()22_2_28.c
+D:\11016\Documents\c代码\test22_2_28\test22_2_28\strstr()22_2_28.c(11,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  test22_2_28.vcxproj -> D:\11016\Documents\c代码\test22_2_28\x64\Debug\test22_2_28.exe
