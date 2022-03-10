@@ -1,0 +1,4 @@
+﻿  test_22_2_22.c
+D:\11016\Documents\c代码\test_22_2_22\test_22_2_22\test_22_2_22.c(42,11): warning C4013: “left_move”未定义；假设外部返回 int
+test_22_2_22.obj : error LNK2019: 无法解析的外部符号 _left_move，函数 _main 中引用了该符号
+D:\11016\Documents\c代码\test_22_2_22\Debug\test_22_2_22.exe : fatal error LNK1120: 1 个无法解析的外部命令
